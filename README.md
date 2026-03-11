@@ -15,7 +15,7 @@ The Anti-Retail Crypto Data API provides real-time derivatives intelligence for 
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USER/antiretail-langchain-tool.git
+    git clone https://github.com/mxbtkk/antiretail-langchain-tool.git
     cd antiretail-langchain-tool
     ```
 2.  Install dependencies:
